@@ -4,4 +4,4 @@ First Nepalese Coin created to experiment.
 To be used by Nepalese Developers and Expats for testing and development of Coins and blockchains.
 1 Nepalcoin = 1 NRS
 initially its it the testnet and doesnt have any real value.
-If any developers are interested to devlop anything similar we can do it together.
+If any developers are interested to devlop anything similar we can do it together in a decententralised way.
