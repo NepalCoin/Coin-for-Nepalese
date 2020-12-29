@@ -5,3 +5,4 @@ To be used by Nepalese Developers and Expats for testing and development of Coin
 1 Nepalcoin = 1 NRS
 initially its it the testnet and doesnt have any real value.
 If any developers are interested to devlop anything similar we can do it together in a decententralised way.
+Can be built as an independent Blockchain or on top of Ethereum.
