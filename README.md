@@ -1,6 +1,6 @@
-# Nepali Rupee(Test Net Coming soon)
+# Nepali Rupee
 Stable NRP pegged to nepalese rupee. Has no value or real life use case up until now. This project is entirely for Learning purpose only.
-Created to experiment with the blockchain technology.
+Created to experiment only, if successful it can be implemented for real life use.
 To be used by Nepalese Developers and Expats for testing and development of Blockchains.
 1 Nepalcoin = 1 NRS
 initially its it the testnet and doesnt have any real value.
